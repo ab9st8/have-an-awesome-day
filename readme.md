@@ -33,3 +33,5 @@ The etiquette consists of three points, each being a humble request in the event
 *Can I modify the HAD? What is the HAD licensed under?* **Yes, you can modify the HAD however you want! The HAD is licensed under the Unlicense + the HAD itself.**
 
 *If I use the HAD, do I have to change any SPDX license identifiers in package files, e.g. in "package.json", "project.nimble" or "Cargo.toml" files?* **No, because the HAD is "invisible". It has no effect by itself. Whichever license you're using stays the same.**
+
+*Can I use the HAD with non-software?* **I don't see why you'd want to... the HAD features vocabulary which makes it basically exclusive to software licensing use, but you're free to experiment if it makes your day awesome.**
