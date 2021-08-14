@@ -28,7 +28,7 @@ The introduction:
 The etiquette consists of three points, each being a humble request in the event of modification, redistribution or republication of the code. There is not much to explain about these points, because each is described in detail in the text itself.
 
 ### Questions you might have
-*Does including the HAD in my project bring any legal liability upon me, you, or the user? Is it safe?* **It's 100% safe! I'm not a lawyer, not even close, but from what I understand, there is nothing in the  that could even remotely bind anyone legally in any way. The HAD is simply a list of favors that anyone can as easily fulfill as they can reject or even ignore.**
+*Does including the HAD in my project bring any legal liability upon me, you, or the user? Is it safe?* **It's 100% safe! I'm not a lawyer, not even close, but from what I understand, there is nothing in the  HAD that could even remotely bind anyone legally in any way. The HAD is simply a list of favors that anyone can as easily fulfill as they can reject or even ignore.**
 
 *Can I modify the HAD? What is the HAD licensed under?* **Yes, you can modify the HAD however you want! The HAD is licensed under the Unlicense + the HAD itself.**
 
